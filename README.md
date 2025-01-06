@@ -5,6 +5,7 @@ http://localhost:8080/swagger-ui/index.html
 ![img.png](img.png)
 
 DIAGRAMA DE CLASES
+
 ![Reto1.png](Reto1.png)
 
 LISTA DE ESTUDIANTES
